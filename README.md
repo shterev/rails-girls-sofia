@@ -1,1 +1,1 @@
-# Sintra project  for Rails Girls Sofia
+# Sinatra project for Rails Girls Sofia
